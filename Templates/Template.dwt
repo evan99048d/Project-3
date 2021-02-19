@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>PJ2</title>
+<!-- TemplateEndEditable -->
+<link href="file:///C|/Users/Evan Rosen/Documents/Unnamed Site 2/styles2.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/rtx0nbj.css">
+<!-- TemplateBeginEditable name="head" --><style type="text/css">
+
+</style>
+
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="container">
+  <header></header>
+  <nav><ul>
+	  <li><a href="#">About</a></li>
+	  <li><a href="#">Blog</a></li>
+	  <li><a href="#">Gallery</a></li>
+	  <li><a href="#">Contact</a></li>
+	  
+	  
+	  </ul></nav>
+  <aside><h3>I am a great coder and a goat</h3>
+	<h3>By Evan Rosen</h3></aside>
+  <main>
+	<!-- TemplateBeginEditable name="EditRegion3" -->
+	<h1>Page Title </h1>
+	<!-- TemplateEndEditable --> </main>
+  <footer>Content for New footer Tag Goes Here</footer>
+</div>
+</body>
+</html>
